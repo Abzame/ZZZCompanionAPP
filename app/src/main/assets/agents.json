@@ -1,0 +1,1750 @@
+[
+  {
+    "id": 1,
+    "name": "Ellen Joe",
+    "element": "Frost",
+    "rarity": "S",
+    "role": "Attack",
+    "image": "ellen_joe",
+  
+    "build": {
+      "description": "Deep Sea Visitor is the recommended engine. This build focuses on boosting Ellen's Basic Attack damage, after triggering Shatter on enemies, and leverages Woodpecker Electro's CRIT Rate buff typical for DPS play.",
+      "bestEngineW": [
+        { "name": "Visitor of the Depths", "stars": 4, "image": "visitor_of_the_depths" },
+        { "name": "The Sulfur", "stars": 4, "image": "the_sulfur" },
+        { "name": "Rotor of Cannon", "stars": 3, "image": "rotor_of_cannon" },
+        { "name": "Superstar of the Streets", "stars": 3, "image": "superstar_of_the_streets" },
+        { "name": "Engine of the Constellation", "stars": 3, "image": "engine_of_the_constellation" }
+      ],
+      "discs": [
+        { "name": "Polar Metal", "pieces": 4, "image": "polar_metal" },
+        { "name": "Techno Woody Pop", "pieces": 2, "image": "techno_woody_pop" }
+      ],
+      "mainStats": [
+        "6 - Theth-HAT Firm",
+        "5 - Bonus of Ice Damage",
+        "4 - CRIT Rate - Damage CRIT"
+      ],
+      "subStats": [
+        "Getting damage CRIT",
+        "CRIT tax",
+        "Theth-HAT Firm"
+      ],
+
+        "skillPriority": [
+        {"name": "Core Skill", "priority": 5, "image": "core_skill"},
+        {"name": "Basic Attack", "priority": 5, "image": "basic_attack"},
+        {"name": "Special Attack", "priority": 5, "image": "special_attack"},
+        {"name": "Chain Attack", "priority": 3, "image":"chain_attack"},
+        {"name": "Dodge", "priority": 3, "image":"dodge"},
+        {"name": "Assist", "priority": 1, "image":"assist"}
+      ],
+
+      "f2PParty": [
+        {"name": "Ellen Joe", "role":"Attack" , "image": "ellen_joe"},
+        {"name": "Anby Demara", "role":"Stun", "image": "anby_demara"},
+        {"name": "Soukaku", "role": "Support", "image": "soukaku"}
+      ],
+        "recommendedParty": [
+        {"name": "Ellen Joe", "role":"Attack" , "image": "ellen_joe"},
+        {"name": "Lighter", "role":"Stun", "image": "lighter"},
+        {"name": "Astra Yao", "role": "Support", "image": "astra_yao"}
+      ]
+
+    }
+
+  },
+  
+  {
+    "id": 2,
+    "name": "Billy Kid",
+    "element": "Physical",
+    "rarity": "A",
+    "role": "Attack",
+    "image": "billy_kid",
+
+    "build": {
+      "description": "Maximizes Billy's damage by using his Ultimate after a Chain Attack for a heavy burst, then maintains consistent damage with Basic Attacks. Prioritizes ATK main stat, Physical DMG secondary, and CRIT on the 4-piece. Puffer Electro is a situational support pick to boost ATK after his Ultimate.",
+      "bestEngineW": [
+        { "name": "Replica of Constellation Engine", "stars": 3, "image": "replica_of_constellation_engine" },
+        { "name": "The Sulfur", "stars": 4, "image": "the_sulfur" },
+        { "name": "Steel Cushion", "stars": 4, "image": "steel_cushion" },
+        { "name": "Constellation Engine", "stars": 3, "image": "constellation_engine" },
+        { "name": "Superstar of the Streets", "stars": 3, "image": "superstar_of_the_streets" }
+      ],
+      "discs": [
+        { "name": "Flourishing from Dawn", "pieces": 4, "image": "flourishing_from_dawn" },
+        { "name": "Techno Woodpecker", "pieces": 2, "image": "techno_woodpecker" }
+      ],
+      "mainStats": [
+        "6 - ATQ",
+        "5 - Physical Damage Bonus",
+        "4 - CRIT Rate - CRIT Damage"
+      ],
+      "subStats": [
+        "CRIT Damage",
+        "CRIT rate",
+        "% of ATQ"
+      ],
+      "skillPriority": [
+        {"name": "Core Skill", "priority": 4, "image": "core_skill"},
+        {"name": "Basic Attack", "priority": 4, "image": "basic_attack"},
+        {"name": "Dodge", "priority": 3, "image": "dodge"},
+        {"name": "Special Attack", "priority": 3, "image":"special_attack"},
+        {"name": "Chain Attack", "priority": 3, "image":"chain_attack"},
+        {"name": "Assist", "priority": 2, "image":"assist"}
+      ],
+        "f2PParty": [
+        {"name": "Billy Kid", "role":"Attack" , "image": "billy_kid"},
+        {"name": "Nicole Demara", "role":"Support", "image": "nicole_demara"},
+        {"name": "Anby Demara", "role": "Stun", "image": "anby_demara"}
+      ],
+        "recommendedParty": [
+        {"name": "Billy Kid", "role":"Attack" , "image": "billy_kid"},
+        {"name": "Nicole Demara", "role":"Support", "image": "nicole_demara"},
+        {"name": "Qingyi", "role": "Stun", "image": "qingyi"}
+      ]
+
+    
+    }
+  },
+
+  {
+    "id": 3,
+    "name": "Alice Thymefield", 
+    "element":"Physical",
+    "rarity":"S",
+    "role":"Anomalous",
+    "image":"alice_thymefield",
+    "build":{
+       "description":"This build leverage Alice's frequent Assault triggers to boost her damage and provide extra buffs. Focus on maximizing ATK, Anomaly Proficiency, and Anomaly Mastery to get the most out of her Additional Ability. Aim for at least 140 Anomaly Mastery as a minimum — each point above this threshold increases Alice's Anomaly Proficiency while her Additional Ability is active.",
+        "bestEngineW":[
+          {"name": "Forge of the Ten Directions", "stars": 4, "image": "forge_of_the_ten_directions" },
+          {"name": "Fusion Compiler", "stars": 4, "image": "fusion_compiler" },
+          {"name": "Eletric Lipstick", "stars": 3, "image": "electric_lipstick" },
+          {"name": "I'm sorry about the stars", "stars": 3, "image": "im_sorry_about_the_stars" }
+        
+        ],
+        "discs": [
+          {"name": "Metal of Prey", "pieces": 4, "image": "metal_of_prey" },
+          {"name": "Blues Free", "pieces": 2, "image": "blues_free" }
+        ],
+        "mainStats":[
+          "6 - Mastery of Anomaly",
+          "5 - Physical Damage Bonus - Drilling Rate",
+          "4 - Proficiency of Anomaly"
+        ],
+        "subStats": [
+          "Proficiency of Anomaly",
+          "% of ATQ",
+          "Drilling"
+        ],
+        "skillPriority": [
+          {"name": "Core Skill", "priority": 5, "image": "core_skill" },
+          {"name": "Basic Attack", "priority": 5, "image": "basic_attack" },
+          {"name": "Special Attack", "priority": 4, "image": "special_attack" },
+          {"name": "Chain Attack", "priority": 4, "image": "chain_attack" },
+          {"name": "Dodge", "priority": 3, "image": "dodge" },
+          {"name": "Assist", "priority": 2, "image": "assist" }
+        ],
+        "f2PParty": [
+        {"name": "Alice Thymefield", "role":"Anomalous" , "image": "alice_thymefield"},
+        {"name": "Corin Wickes ", "role":"Attacker", "image": "corin_wickes"},
+        {"name": "Nicole Demara", "role": "Support", "image": "nicole_demara"}
+      ],
+        "recommendedParty": [
+        {"name": "Alice Thymefield", "role":"Anomalous" , "image": "alice_thymefield"},
+        {"name": "Vivian Banshee", "role":"Anomalous ", "image": "vivian_banshee"},
+        {"name": "Ukinami Yuzuha", "role": "Assistance ", "image": "ukinami_yuzuha"}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 4,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+        "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 5,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 6,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 7,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 8,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 9,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 10,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 11,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 12,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 13,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 14,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 15,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 16,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 17,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 18,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 19,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 20,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 21,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 22,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 23,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 24,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 25,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 26,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 27,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 28,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 29,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 30,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 31,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 32,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 33,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 34,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 35,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 36,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 37,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 38,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+              "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+
+
+    }
+  },
+
+{
+    "id": 39,
+    "name": "", 
+    "element":"",
+    "rarity":"",
+    "role":"",
+    "image":"",
+    "build":{
+       "description":"",
+        "bestEngineW":[
+          {"name": "", "stars": 1, "image": "" }
+        ],
+        "discs": [
+          {"name": "", "pieces": 1, "image": "" }
+        ],
+        "mainStats":[
+          "",
+          "",
+          ""
+        ],
+        "subStats": [
+          "",
+          "",
+          ""
+        ],
+        "skillPriority": [
+          {"name": "", "priority": 1, "image": "" }
+        ],
+        "f2PParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ],
+        "recommendedParty": [
+        {"name": "", "role":"" , "image": ""},
+        {"name": "", "role":"", "image": ""},
+        {"name": "", "role": "", "image": ""}
+      ]
+
+    }
+  }
+
+
+
+]

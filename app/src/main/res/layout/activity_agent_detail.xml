@@ -56,11 +56,20 @@
             android:layout_height="wrap_content" />
 
         <LinearLayout
-            android:id="@+id/bestEngineList"
+            android:id="@+id/enginesList"
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingBottom="12dp" />
+
+
+
+
+
+
+
+
+
 
         <!-- Discs -->
         <TextView
@@ -129,7 +138,7 @@
 
 
         <LinearLayout
-            android:id="@+id/f2PParty"
+            android:id="@+id/f2PPartyContainer"
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -137,6 +146,34 @@
 
         <LinearLayout
             android:id="@+id/imagemAgent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="6dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+        <!-- Recommended Party -->
+        <TextView
+            android:text="Recommended Party:"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:id="@+id/recommendedPartyContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp"
+            android:divider="?android:attr/dividerVertical"
+            android:showDividers="middle"/>
+
+        <LinearLayout
+            android:id="@+id/imagemAgentRecomendedParty"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
